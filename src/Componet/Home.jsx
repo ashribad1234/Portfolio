@@ -61,9 +61,6 @@ const Home = () => {
         threshold: 0.2,
     });
 
-
-
-
     const containerVariants = {
         hidden: { opacity: 0 },
         visible: {
@@ -80,7 +77,6 @@ const Home = () => {
         visible: { opacity: 1, y: 0 }
     };
 
- 
     return (
         <>
             <nav className="fixed z-50 bg-gray-800 w-full">
