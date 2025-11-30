@@ -89,7 +89,7 @@ const Home = () => {
                             </div>
                             <div className="sm:block ml-auto">
                                 <div className="flex space-x-6">
-                                    <a href="/" className="rounded-md bg-gray-900 px-3 py-2 text-sm font-medium text-white">Home </a>
+                                    <a href="/" className="rounded-md bg-gray-900 px-3 py-2 text-sm font-medium text-white">Homes </a>
                                     <a href="#about" className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-white/5 hover:text-white">About</a>
                                     <a href="#portfolio" className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-white/5 hover:text-white">Portfolio</a>
                                     <a href="#contact" className="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-white/5 hover:text-white">Contact</a>
